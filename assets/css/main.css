@@ -505,7 +505,7 @@ a.masinfo-btn {
 }
 
 .breadcrumb-bg {
-  background-image: url(/Vibeforest/assets/img/Fondos/Miranda2.JPG);
+  background-image: url(/assets/img/Fondos/Miranda2.JPG);
 }
 
 .breadcrumb-text p {
@@ -1512,7 +1512,7 @@ input[type="submit"] {
   background-color: #020c0e;
   position: relative;
   z-index: 1;
-  background-image: url(/Vibeforest/assets/img/Fondos/Guane.jpg);
+  background-image: url(/assets/img/Fondos/Guane.jpg);
 }
 
 .single-homepage-slider2 {
@@ -1521,7 +1521,7 @@ input[type="submit"] {
   background-color: #020c0e;
   position: relative;
   z-index: 1;
-  background-image: url(/Vibeforest/assets/img/Fondos/Esmeralda.JPG);
+  background-image: url(/assets/img/Fondos/Esmeralda.JPG);
 }
 
 
@@ -1531,7 +1531,7 @@ input[type="submit"] {
   background-color: #020c0e;
   position: relative;
   z-index: 1;
-  background-image: url(/Vibeforest/assets/img/Fondos/guyana3.jpg);
+  background-image: url(/assets/img/Fondos/guyana3.jpg);
 }
 
 .single-homepage-slider:after {
@@ -1639,23 +1639,23 @@ div.owl-controls,
 
 ----------------------------------------------------------------------------- */
 .news-bg-1 {
-  background-image: url(/Vibeforest/assets/img/products/arbol.png);
+  background-image: url(/assets/img/products/arbol.png);
 }
 
 .news-bg-2 {
-  background-image: url(/Vibeforest/assets/img/products/arbol.png);
+  background-image: url(/assets/img/products/arbol.png);
 }
 
 .news-bg-3 {
-  background-image: url(/Vibeforest/assets/img/products/arbol.png);
+  background-image: url(/assets/img/products/arbol.png);
 }
 
 .news-bg-4 {
-  background-image: url(/Vibeforest/assets/img/products/arbol.png);
+  background-image: url(/assets/img/products/arbol.png);
 }
 
 .news-bg-5 {
-  background-image: url(/Vibeforest/assets/img/products/arbol.png);
+  background-image: url(/assets/img/products/arbol.png);
 }
 
 .news-bg-6 {
@@ -1717,22 +1717,22 @@ p.excerpt {
 }
 
 .single-artcile-bg {
-  background-image: url(/Vibeforest/assets/img/Fondos/guanes3.jpg);
+  background-image: url(/assets/img/Fondos/guanes3.jpg);
   height: 450px;
 }
 
 .single-artcile-bg2 {
-  background-image: url(/Vibeforest/assets/img/Fondos/Guyana4.jpg);
+  background-image: url(/assets/img/Fondos/Guyana4.jpg);
   height: 450px;
 }
 
 .single-artcile-bg3 {
-  background-image: url(/Vibeforest/assets/img/Fondos/Miranda2.JPG);
+  background-image: url(/assets/img/Fondos/Miranda2.JPG);
   height: 450px;
 }
 
 .single-artcile-bg4 {
-  background-image: url(/Vibeforest/assets/img/Fondos/esmeralda3.jpg);
+  background-image: url(/assets/img/Fondos/esmeralda3.jpg);
   height: 450px;
 }
 
@@ -2158,7 +2158,7 @@ a.video-play-btn {
 }
 
 .abt-bg {
-  background-image: url(/Vibeforest/assets/img/products/plant\ gif.gif);
+  background-image: url(/assets/img/products/plant\ gif.gif);
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -2213,7 +2213,7 @@ a.video-play-btn {
 .shop-banner {
   position: relative;
   background-color: #f5f5f5;
-  background-image: url(/Vibeforest/assets/img/Fondos/guyana3.jpg);
+  background-image: url(/assets/img/Fondos/guyana3.jpg);
   background-size: cover;
   padding: 110px 0px 115px;
 }
