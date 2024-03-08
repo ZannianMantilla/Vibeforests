@@ -1735,6 +1735,27 @@ p.excerpt {
   height: 450px;
 }
 
+.single-artcile-bg5 {
+  background-image: url(/assets/img/Fondos/Barrigona.JPG);
+  height: 450px;
+}
+
+.single-artcile-bg6 {
+  background-image: url(/assets/img/Fondos/Cañon1.JPG);
+  height: 450px;
+}
+
+.single-artcile-bg7 {
+  background-image: url(/assets/img/Fondos/Campoalegre2.JPG);
+  height: 450px;
+}
+
+
+.single-artcile-bg8 {
+  background-image: url(/assets/img/Fondos/esmeralda3.jpg);
+  height: 450px;
+}
+
 .single-artcile-bg4 {
   background-image: url(/assets/img/Fondos/esmeralda3.jpg);
   height: 450px;
@@ -1796,6 +1817,38 @@ p.excerpt {
 }
 
 .single-artcile-bg4 {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bg5 {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bg6 {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bg7 {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bg8 {
   background-size: cover;
   background-position: center;
   background-color: #ddd;
