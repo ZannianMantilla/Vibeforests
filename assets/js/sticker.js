@@ -286,3 +286,28 @@
     setTimeout(scroller, 0);
   });
 }));
+
+
+$(document).ready(function () {
+  var header = $('.top-header-area');
+  var scrollPosition = $(window).scrollTop();
+
+  // Cambiar la clase del encabezado inicialmente según la posición del scroll
+  if (scrollPosition === 0) {
+    header.addClass('white');
+  } else {
+    header.removeClass('white');
+  }
+
+  // Escuchar el evento de desplazamiento de la ventana
+  $(window).scroll(function () {
+    scrollPosition = $(window).scrollTop();
+
+    // Si el usuario está en la parte superior de la página, establece el color del encabezado en blanco
+    if (scrollPosition === 0) {
+      header.addClass('white');
+    } else {
+      header.removeClass('white');
+    }
+  });
+});
