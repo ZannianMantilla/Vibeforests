@@ -625,7 +625,6 @@ nav.main-menu ul ul.sub-menu {
   -o-transition: 0.3s;
   transition: 0.3s;
   opacity: 0;
-  visibility: ;
   -webkit-box-shadow: 0 0 20px #555555;
   box-shadow: 0 0 20px #555555;
 }
@@ -1760,7 +1759,7 @@ p.excerpt {
 }
 
 .single-artcile-bg6 {
-  background-image: url(/assets/img/Fondos/Cañon1.JPG);
+  background-image: url(/assets/img/Fondos/canon.JPG);
   height: 450px;
 }
 
