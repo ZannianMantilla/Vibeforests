@@ -2631,6 +2631,25 @@ a.cart-btn {
   padding: 10px 20px;
 }
 
+a.donativo-btn {
+  font-family: "Poppins", sans-serif;
+  display: inline-block;
+  background-color: #051922;
+  color: #00e9c9;
+  padding: 10px 20px;
+  border: 2px solid #00e9c9; /* Añadido para darle un borde */
+  border-radius: 5px; /* Añadido para darle esquinas redondeadas */
+  text-decoration: none; /* Añadido para quitar el subrayado */
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Añadido para animación de transición */
+}
+
+a.donativo-btn:hover {
+  background-color: #00e9c9;
+  color: #051922;
+  border-color: #051922; /* Añadido para cambiar el color del borde en hover */
+}
+
+
 a.cart-btn2 {
   margin-top: 15px;
   font-family: "Poppins", sans-serif;
