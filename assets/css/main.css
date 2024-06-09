@@ -712,8 +712,11 @@ nav.mean-nav > ul > li:first-child > a {
 .header-icons a {
   color: #fff;
   display: inline-block;
-  padding: 10px;
+  margin-left: 20px;
+  font-size: 16px;
 }
+
+
 
 .site-logo {
   padding: 6px 0;
